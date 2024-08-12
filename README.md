@@ -41,4 +41,24 @@
 ![image](https://github.com/user-attachments/assets/7374f45d-9835-43d1-89e4-57d25c24e7e4)
 
 
+12.Ajoutez cette modification à la zone de préparation. (En utilisant la commande « git add .
+![image](https://github.com/user-attachments/assets/bffb2aa8-feb0-42d4-af07-cac519be5f9d)
+
+
+13.Validez avec le message « suppression du troisième fichier txt ».
+![image](https://github.com/user-attachments/assets/c02de545-e88b-42ba-966a-16e9ff32fcf5)
+
+
+14.Consultez vos commits en utilisant git log.
+![image](https://github.com/user-attachments/assets/361e09da-568e-45d9-abd0-3a8ab21246ae)
+
+
+15.Modifiez vos paramètres globaux sur core.pager=cat - vous pouvez en savoir plus à ce sujet ici .
+![image](https://github.com/user-attachments/assets/eb3dd467-016f-4d19-ac26-bc0cb948d8fb)
+
+
+16.Écrivez la commande appropriée pour répertorier toutes les configurations globales de git sur votre machine.
+
+
+
 

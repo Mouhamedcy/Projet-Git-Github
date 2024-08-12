@@ -16,3 +16,20 @@
 5.Ajoutez third.txt à la zone de préparation.
 ![image](https://github.com/user-attachments/assets/057f28ea-6b8d-4807-98bb-49823e9f5d46)
 
+
+6.Validez avec le message « ajout de third.txt ».
+![image](https://github.com/user-attachments/assets/d032dbaa-d9c8-4543-b9b5-0f77c64c5f57)
+
+
+7.Vérifiez votre commit avec git log.
+![image](https://github.com/user-attachments/assets/b5bb4359-9bc0-4d24-a697-1a8d61f9eccd)
+
+
+8.Créez un autre fichier appelé fourth.txt.
+![image](https://github.com/user-attachments/assets/02005157-8883-4156-8ec3-53cfa6ded36c)
+
+
+
+
+
+

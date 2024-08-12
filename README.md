@@ -29,6 +29,12 @@
 ![image](https://github.com/user-attachments/assets/02005157-8883-4156-8ec3-53cfa6ded36c)
 
 
+9.Ajoutez le fichier fourth.txt à la zone de préparation.
+![image](https://github.com/user-attachments/assets/90c59267-2497-447e-ace4-3189171206b3)
+
+
+10.Valider avec le message « ajout du quatrième.txt »
+![image](https://github.com/user-attachments/assets/7724a902-5927-4e23-b5d4-74c490261749)
 
 
 

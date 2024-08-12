@@ -37,5 +37,8 @@
 ![image](https://github.com/user-attachments/assets/7724a902-5927-4e23-b5d4-74c490261749)
 
 
+11.Supprimez le troisième fichier .txt.
+![image](https://github.com/user-attachments/assets/7374f45d-9835-43d1-89e4-57d25c24e7e4)
+
 
 

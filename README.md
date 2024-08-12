@@ -53,11 +53,12 @@
 ![image](https://github.com/user-attachments/assets/361e09da-568e-45d9-abd0-3a8ab21246ae)
 
 
-15.Modifiez vos paramètres globaux sur core.pager=cat - vous pouvez en savoir plus à ce sujet ici .
+15.Modifiez vos paramètres globaux sur core.pager=cat.
 ![image](https://github.com/user-attachments/assets/eb3dd467-016f-4d19-ac26-bc0cb948d8fb)
 
 
 16.Écrivez la commande appropriée pour répertorier toutes les configurations globales de git sur votre machine.
+![image](https://github.com/user-attachments/assets/2c5e4635-cc80-45f3-8774-23505f2d3746)
 
 
 

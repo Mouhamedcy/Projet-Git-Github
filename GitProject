@@ -1,2 +1,19 @@
+Voir READ ME
+
 1.Créez un dossier appelé learn_git.
-https://github.com/user-attachments/assets/5c7c62f2-3ac5-4e1b-bd15-46f4c73f5d4a
+2.Cd (changer de répertoire) dans le dossier learn_git.
+3.Créez un fichier appelé third.txt.
+4.Initialiser un dépôt git vide.
+5.Ajoutez third.txt à la zone de préparation.
+6.Validez avec le message « ajout de third.txt ».
+7.Vérifiez votre commit avec git log.
+8.Créez un autre fichier appelé fourth.txt.
+9.Ajoutez le fichier fourth.txt à la zone de préparation.
+10.Valider avec le message « ajout du quatrième.txt »
+11.Supprimez le troisième fichier .txt.
+12.Ajoutez cette modification à la zone de préparation. (En utilisant la commande « git add . »
+13.Validez avec le message « suppression du troisième fichier txt ».
+14.Consultez vos commits en utilisant git log.
+15.Modifiez vos paramètres globaux sur core.pager=cat - vous pouvez en savoir plus à ce sujet ici .
+16.Écrivez la commande appropriée pour répertorier toutes les configurations globales de git sur votre machine.
+17.Vous pouvez taper git config --global pour savoir comment procéder.

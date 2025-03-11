@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import base64
 import json
-from gtts import gTTS
+
 import os
 from io import BytesIO
 import cv2

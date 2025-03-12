@@ -11,7 +11,7 @@ from PIL import Image
 
 # Configuration de l'API Claude
 CLAUDE_API_URL = "https://api.anthropic.com/v1/messages"
-CLAUDE_API_KEY = "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"
+CLAUDE_API_KEY = "sk-ant-api03-2EdevYKuGyb8bz1Fv52tPkzCF4EotPtU1sTThS-SXAkifRv168G28JHmy2DM7ER48R_nOAK0gZdyKaTWLg-Pnf4nwAA"
 
 
 def get_image_description(image_data):
